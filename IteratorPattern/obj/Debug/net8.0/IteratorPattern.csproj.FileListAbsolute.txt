@@ -1,0 +1,14 @@
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\bin\Debug\net8.0\IteratorPattern.exe
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\bin\Debug\net8.0\IteratorPattern.deps.json
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\bin\Debug\net8.0\IteratorPattern.runtimeconfig.json
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\bin\Debug\net8.0\IteratorPattern.dll
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\bin\Debug\net8.0\IteratorPattern.pdb
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\obj\Debug\net8.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\obj\Debug\net8.0\IteratorPattern.AssemblyInfoInputs.cache
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\obj\Debug\net8.0\IteratorPattern.AssemblyInfo.cs
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\obj\Debug\net8.0\IteratorPattern.csproj.CoreCompileInputs.cache
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\obj\Debug\net8.0\IteratorPattern.dll
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\obj\Debug\net8.0\refint\IteratorPattern.dll
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\obj\Debug\net8.0\IteratorPattern.pdb
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\obj\Debug\net8.0\IteratorPattern.genruntimeconfig.cache
+D:\project\Placement-Notes\EiStudyExercise\IteratorPattern\obj\Debug\net8.0\ref\IteratorPattern.dll

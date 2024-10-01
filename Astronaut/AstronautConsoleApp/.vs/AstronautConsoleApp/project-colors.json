@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c666f9b-eeeb-48d4-a491-3becc4a29d87": {
+      "ProjectGuid": "2c666f9b-eeeb-48d4-a491-3becc4a29d87",
+      "DisplayName": "AstronautConsoleApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

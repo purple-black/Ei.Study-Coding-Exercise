@@ -1,0 +1,14 @@
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\obj\Debug\net8.0\SingletonDatabase.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\obj\Debug\net8.0\SingletonDatabase.AssemblyInfoInputs.cache
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\obj\Debug\net8.0\SingletonDatabase.AssemblyInfo.cs
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\obj\Debug\net8.0\SingletonDatabase.csproj.CoreCompileInputs.cache
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\bin\Debug\net8.0\SingletonDatabase.exe
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\bin\Debug\net8.0\SingletonDatabase.deps.json
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\bin\Debug\net8.0\SingletonDatabase.runtimeconfig.json
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\bin\Debug\net8.0\SingletonDatabase.dll
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\bin\Debug\net8.0\SingletonDatabase.pdb
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\obj\Debug\net8.0\SingletonDatabase.dll
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\obj\Debug\net8.0\refint\SingletonDatabase.dll
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\obj\Debug\net8.0\SingletonDatabase.pdb
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\obj\Debug\net8.0\SingletonDatabase.genruntimeconfig.cache
+D:\project\Placement-Notes\EiStudyExercise\SingletonDatabase\obj\Debug\net8.0\ref\SingletonDatabase.dll

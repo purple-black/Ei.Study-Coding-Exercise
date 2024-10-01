@@ -1,0 +1,14 @@
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\obj\Debug\net8.0\StructuralAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\obj\Debug\net8.0\StructuralAdapter.AssemblyInfoInputs.cache
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\obj\Debug\net8.0\StructuralAdapter.AssemblyInfo.cs
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\obj\Debug\net8.0\StructuralAdapter.csproj.CoreCompileInputs.cache
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\bin\Debug\net8.0\StructuralAdapter.exe
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\bin\Debug\net8.0\StructuralAdapter.deps.json
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\bin\Debug\net8.0\StructuralAdapter.runtimeconfig.json
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\bin\Debug\net8.0\StructuralAdapter.dll
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\bin\Debug\net8.0\StructuralAdapter.pdb
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\obj\Debug\net8.0\StructuralAdapter.dll
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\obj\Debug\net8.0\refint\StructuralAdapter.dll
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\obj\Debug\net8.0\StructuralAdapter.pdb
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\obj\Debug\net8.0\StructuralAdapter.genruntimeconfig.cache
+D:\project\Placement-Notes\EiStudyExercise\StructuralAdapter\obj\Debug\net8.0\ref\StructuralAdapter.dll

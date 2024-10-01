@@ -1,0 +1,14 @@
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\obj\Debug\net8.0\StructuralBridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\obj\Debug\net8.0\StructuralBridge.AssemblyInfoInputs.cache
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\obj\Debug\net8.0\StructuralBridge.AssemblyInfo.cs
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\obj\Debug\net8.0\StructuralBridge.csproj.CoreCompileInputs.cache
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\bin\Debug\net8.0\StructuralBridge.exe
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\bin\Debug\net8.0\StructuralBridge.deps.json
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\bin\Debug\net8.0\StructuralBridge.runtimeconfig.json
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\bin\Debug\net8.0\StructuralBridge.dll
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\bin\Debug\net8.0\StructuralBridge.pdb
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\obj\Debug\net8.0\StructuralBridge.dll
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\obj\Debug\net8.0\refint\StructuralBridge.dll
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\obj\Debug\net8.0\StructuralBridge.pdb
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\obj\Debug\net8.0\StructuralBridge.genruntimeconfig.cache
+D:\project\Placement-Notes\EiStudyExercise\StructuralBridge\obj\Debug\net8.0\ref\StructuralBridge.dll

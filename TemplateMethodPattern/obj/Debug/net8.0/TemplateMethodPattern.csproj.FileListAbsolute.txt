@@ -1,0 +1,14 @@
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.AssemblyInfo.cs
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.exe
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.deps.json
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.runtimeconfig.json
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.dll
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.pdb
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.dll
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\obj\Debug\net8.0\refint\TemplateMethodPattern.dll
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.pdb
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.genruntimeconfig.cache
+D:\project\Placement-Notes\EiStudyExercise\TemplateMethodPattern\obj\Debug\net8.0\ref\TemplateMethodPattern.dll

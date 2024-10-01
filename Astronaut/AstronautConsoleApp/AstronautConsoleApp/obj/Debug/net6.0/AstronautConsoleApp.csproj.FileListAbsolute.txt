@@ -1,0 +1,15 @@
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\obj\Debug\net6.0\AstronautConsoleApp.csproj.AssemblyReference.cache
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\obj\Debug\net6.0\AstronautConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\obj\Debug\net6.0\AstronautConsoleApp.AssemblyInfoInputs.cache
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\obj\Debug\net6.0\AstronautConsoleApp.AssemblyInfo.cs
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\obj\Debug\net6.0\AstronautConsoleApp.csproj.CoreCompileInputs.cache
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\bin\Debug\net6.0\AstronautConsoleApp.exe
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\bin\Debug\net6.0\AstronautConsoleApp.deps.json
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\bin\Debug\net6.0\AstronautConsoleApp.runtimeconfig.json
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\bin\Debug\net6.0\AstronautConsoleApp.dll
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\bin\Debug\net6.0\AstronautConsoleApp.pdb
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\obj\Debug\net6.0\AstronautConsoleApp.dll
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\obj\Debug\net6.0\refint\AstronautConsoleApp.dll
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\obj\Debug\net6.0\AstronautConsoleApp.pdb
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\obj\Debug\net6.0\AstronautConsoleApp.genruntimeconfig.cache
+D:\project\Placement-Notes\EiStudyExercise\Astronaut\AstronautConsoleApp\AstronautConsoleApp\obj\Debug\net6.0\ref\AstronautConsoleApp.dll
