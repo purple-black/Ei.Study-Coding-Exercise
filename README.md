@@ -1,4 +1,4 @@
-Astronaut Daily Schedule Organizer<br/><br/>
+Exercise 2 : Astronaut Daily Schedule Organizer<br/><br/>
 This project is a console-based application designed to help astronauts organize their daily tasks efficiently.
 The schedule allows users to add, view, and remove tasks with real-time conflict detection based on task timing. <br/><br/>
 Prerequisites:<br/>
@@ -36,6 +36,7 @@ ConsoleObserver.cs: For receiving notifications on task changes.<br/>
 <br/>
 <br/>
 
+Exercise 1:<br/>
 Coding exercise on Design Patterns: <br/><br/>
 Creational Design Patterns: <br/><br/>
 Abstract Factory: <br/>
