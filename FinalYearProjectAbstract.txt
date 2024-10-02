@@ -1,0 +1,4 @@
+The project aims to address gaps in the existing  Multi-user Efficient Task Scheduling (METS) algorithm for task scheduling in time-critical Vehicle-to-Infrastructure (V2I) systems.<br/>
+The current method selects dominating nodes based solely on node degree, resulting in suboptimal performance. To enhance this, we propose incorporating a<br/>
+reliability score that considers multiple factors such as bandwidth, link latency, and packet loss rate, with weights assigned based on the priority of each factor.<br/>
+This approach aims to optimize node selection, reduce latency, and improve task success rate particularly in real-time traffic and incident management scenarios.<br/>
